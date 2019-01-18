@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=center\ bottom\ shade\ w\ h
+comment0.target=SECNARAENclass(int,\ int,\ java.awt.Color,\ int,\ int)
+comment1.params=page
+comment1.target=void\ drawGS(java.awt.Graphics)
+comment2.params=page
+comment2.target=void\ drawB(java.awt.Graphics)
+comment3.params=page
+comment3.target=void\ drawWindows(java.awt.Graphics)
+comment4.params=page
+comment4.target=void\ drawSun(java.awt.Graphics)
+comment5.params=page
+comment5.target=void\ drawClouds(java.awt.Graphics)
+comment6.params=
+comment6.target=void\ run()
+numComments=7
